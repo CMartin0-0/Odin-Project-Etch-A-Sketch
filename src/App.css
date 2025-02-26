@@ -32,7 +32,7 @@
     border: 5px solid rgb(196, 8, 8);
     background-color: rgb(255, 255, 255);
     border-radius: 10px;
-    box-shadow: 0px 0px 50px 10px rgba(0, 0, 0, 0.757);
+    box-shadow: 0px 0px 20px 10px rgba(0, 0, 0, 0.75);
     max-width: 600px;
     max-height: 600px;
     min-height: 350px;
