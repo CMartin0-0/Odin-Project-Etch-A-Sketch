@@ -71,7 +71,7 @@ function App()
     return (
         <div>
             <p className='title'>Etch-A-Sketch</p>
-            <p className='instruction'>To use, first pick a grid size, then hold down the mouse button and move cursor to start drawing. <br></br>
+            <p className='instruction'>To use, first set a grid size, then hold down the mouse button and move the cursor to draw. <br></br>
                 -------<br></br>To use the cursor as an eraser instead, just release the mouse button.</p>
             <div className="container-two">
                 <GridContainer>{ grid }</GridContainer>
